@@ -27,7 +27,7 @@ Args:
             config hello world str
             cmd    key   value type
             
-            The key can't contain a ';;' becouse this will count as a new command
+            The key can't contain a '++' becouse this will count as a new command
 """
 SPLITERATOR = '++'
 DEBUG = False
