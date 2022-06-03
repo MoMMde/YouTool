@@ -1,0 +1,6 @@
+{
+    "file_extension": "mp4",
+    "create_new_folder_for_each_playlist": true,
+    "download_directory": "./output/",
+    "url_type": "video"
+}

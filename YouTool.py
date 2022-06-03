@@ -35,7 +35,7 @@ ENDED = False
 CONFIG_FILE = '.cnfg.json'
 
 config = {
-    'video_format': 'mp4',
+    'file_extension': 'mp4',
     'create_new_folder_for_each_playlist': True,
     'download_directory': './output/'
 }
